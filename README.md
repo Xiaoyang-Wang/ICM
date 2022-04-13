@@ -1,1 +1,1 @@
-# Identifying-Coarse-grained-Independent-Causal-Mechanisms-with-Self-supervision
+# Identifying Coarse-grained Independent Causal Mechanisms with Self-supervision
